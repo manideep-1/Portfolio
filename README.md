@@ -1,2 +1,2 @@
-# ranjithreddygaddam.github.io
+# manideep-1.github.io/Portfolio/
 Portfolio
